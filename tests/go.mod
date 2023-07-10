@@ -2,7 +2,7 @@ module github.com/aztfmods/terraform-azure-cosmosdb
 
 go 1.20
 
-require github.com/gruntwork-io/terratest v0.43.6
+require github.com/gruntwork-io/terratest v0.43.7
 
 require (
 	cloud.google.com/go v0.105.0 // indirect
